@@ -11,7 +11,7 @@ public class HelloGit {
             System.out.println("分支项目1");
   	        System.out.println("分支项目2"); 
   	        System.out.println("分支项目3");
-  	      System.out.println("分支项目poi1");
+  	        System.out.println("分支项目poi1");
 	}
 
 }
