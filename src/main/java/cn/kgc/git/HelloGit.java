@@ -7,11 +7,9 @@ public class HelloGit {
             System.out.println("Hello Git!");
             System.out.println("123123");
             System.out.println("ggdd");
-            System.out.println("分支项目");
-            System.out.println("分支项目1");
-  	        System.out.println("分支项目2"); 
-  	        System.out.println("分支项目3");
-  	        System.out.println("分支项目poi1");
+            
+  	        System.out.println("分支项目5");
+  	        System.out.println("分支项目");
 	}
 
 }
